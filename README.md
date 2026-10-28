@@ -78,3 +78,8 @@ Each page is:
 Anonymous views, runs, and share clicks land on `/traction`. Preview data resets; published data persists.
 
 Not affiliated with TAAFT or the products named above.
+
+
+---
+
+Built and maintained by **[Moosh Works](https://mooshworks.com)** ([https://mooshworks.com](https://mooshworks.com)).
